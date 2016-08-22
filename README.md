@@ -10,9 +10,9 @@ metaViC : Virus metagenomics pipeline for unknown host or in absence of a host g
 <p> We have developed an in-house metagenomics pipeline that we apply to the samples when we have sample from unknown hosts or if the host genome sequence is not sequenced. In the absence of the reference genome it is difficult to determine how to remove the host sequences from the sample. The pipeline described here can be applied directly to any virus metagenomics study. </p>
 <p></p>
 <p> This metagenomics pipeline is mainly divided into two major components. The first component deals with cleaning and removing non-viral contents from the reads and the second with de-novo assembly. </p>
-<ol type="1">
+<ol style="font-weight: bold;" type="1">
 	
-  <li style="font-weight: bold;"> <b> Cleaning – removing known higher level organism and bacterial reads </b></li>
+  <li> <b> Cleaning – removing known higher level organism and bacterial reads </b></li>
   <p></p>
   <img align="left" src="images/Metagenomicspipeline1.png"/>
   <p></p>
@@ -33,8 +33,59 @@ metaViC : Virus metagenomics pipeline for unknown host or in absence of a host g
   <p> 
   This pipeline has been applied to field samples of midges from the Scotland, fecal samples of the bats from Brazil, insects from Antarctica.
   </p>
-</body>
-</html>
+<h4>
+References:
+</h4>
+
+<p>Bankevich,A. et al. SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing. </p>
+<p>Buchfink,B. et al. (2014) Fast and sensitive protein alignment using DIAMOND. Nat. Methods, 12, 59–60.</p>
+<p>Gurevich,A. et al. (2013) QUAST: quality assessment tool for genome assemblies. Bioinformatics, 29, 1072–1075.</p>
+<p>Krueger,F. Trim Galore - Babraham Bioinformatics.</p>
+<p>Langmead,B. and Salzberg,S.L. (2012) Fast gapped-read alignment with Bowtie 2. Nat. Methods, 9, 357–359.</p>
+<p>Nurk,S. et al. (2013) Assembling Genomes and Mini-metagenomes from Highly Chimeric Reads. Springer Berlin Heidelberg, pp. 158–170.</p>
+<p>Ondov,B.D. et al. (2011) Interactive metagenomic visualization in a Web browser. BMC Bioinformatics, 12, 385.</p>
+<p>Peng,Y. et al. (2012) IDBA-UD: a de novo assembler for single-cell and metagenomic sequencing data with highly uneven depth. Bioinforma. Orig. Pap., 28, 1420–142810.</p>
+<p>Schmieder,R. et al. (2012) Identification and removal of ribosomal RNA sequences from metatranscriptomes. Bioinformatics, 28, 433–435.</p>
+<p>Schmieder,R. et al. (2011) Quality control and preprocessing of metagenomic datasets. Bioinforma. Appl. NOTE, 27, 863–86410.</p>
+<p>Soto-Jimenez,L.M. et al. (2014) GARM: genome assembly, reconciliation and merging pipeline. Curr. Top. Med. Chem., 14, 418–24.</p>
+
+<h4>
+Tools:
+</h4>
+
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th align="center">Availability</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bowtie2</td>
+<td align="center"> <a href ="http://bowtie-bio.sourceforge.net/bowtie2/index.shtml">http://bowtie-bio.sourceforge.net/bowtie2/index.shtml</a></td>
+</tr>
+<tr>
+<td>taxID_final_set.fa</td>
+<td align="center">The final set of sequences used for Multiple Sequence Alignment</td>
+</tr>
+
+<tr>
+<td>taxID_tree.nhx</td>
+<td align="center">The final tree generated and rerooted by RAxML</td>
+</tr>
+<tr>
+<td>taxID_clustalo_dist_mat.csv</td>
+<td align="center">The pairwise distance matrix file </td>
+</tr>
+<tr>
+<td>taxID_metadata</td>
+<td align="center">The metadata file for each sequence from taxID_final_set.fa that exists in NCBI </td>
+</tr>
+</tbody>
+</table>
+
+
 
 </body>
 </html>
