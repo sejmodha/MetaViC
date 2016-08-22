@@ -12,7 +12,7 @@ metaViC : Virus metagenomics pipeline for unknown host or in absence of a host g
 <p> This metagenomics pipeline is mainly divided into two major components. The first component deals with cleaning and removing non-viral contents from the reads and the second with de-novo assembly. </p>
 <ol type="1">
 	
-  <li style="font-weight: bold;">Cleaning – removing known higher level organism and bacterial reads</li>
+  <li style="font-weight: bold;"> <b> Cleaning – removing known higher level organism and bacterial reads </b></li>
   <p></p>
   <img align="left" src="images/Metagenomicspipeline1.png"/>
   <p></p>
