@@ -63,25 +63,51 @@ Tools:
 <tbody>
 <tr>
 <td>Bowtie2</td>
-<td align="center"> <a href ="http://bowtie-bio.sourceforge.net/bowtie2/index.shtml">http://bowtie-bio.sourceforge.net/bowtie2/index.shtml</a></td>
+<td align="left"> <a href ="http://bowtie-bio.sourceforge.net/bowtie2/index.shtml">http://bowtie-bio.sourceforge.net/bowtie2/index.shtml</a>
+</td>
 </tr>
 <tr>
-<td>taxID_final_set.fa</td>
-<td align="center">The final set of sequences used for Multiple Sequence Alignment</td>
+<td>DIAMOND</td>
+<td align="left"> <a href ="https://github.com/bbuchfink/diamond">https://github.com/bbuchfink/diamond</a>
+</td>
+</tr>
+<td>filter_fastq.pl </td>
+<td align="left"> <a href ="https://github.com/lmrodriguezr/enveomics/blob/master/Scripts/FastQ.filter.pl">https://github.com/lmrodriguezr/enveomics/blob/master/Scripts/FastQ.filter.pl</a>
+</td>
+</tr>
+<td>GARM</td>
+<td align="left"> <a href ="http://garm-meta-assem.sourceforge.net/">http://garm-meta-assem.sourceforge.net/</a>
+</td>
+</tr>
+<td>IDBA-UD</td>
+<td align="left"> <a href ="https://github.com/loneknightpy/idba">https://github.com/loneknightpy/idba</a>
+</td>
+</tr>
+<td>Kronatools</td>
+<td align="left"> <a href ="https://github.com/marbl/Krona/wiki">https://github.com/marbl/Krona/wiki</a>
+</td>
+</tr>
+<td>prinseq-lite.pl</td>
+<td align="left"> <a href ="https://sourceforge.net/projects/prinseq/files/">https://sourceforge.net/projects/prinseq/files/</a>
+</td>
+</tr>
+<td>QUAST</td>
+<td align="left"> <a href ="http://bioinf.spbau.ru/quast">http://bioinf.spbau.ru/quast</a>
+</td>
+</tr>
+<td>riboPicker</td>
+<td align="left"> <a href ="https://sourceforge.net/projects/ribopicker/files/">https://sourceforge.net/projects/ribopicker/files/</a>
+</td>
+</tr>
+<td>SPAdes</td>
+<td align="left"> <a href ="http://bioinf.spbau.ru/spades">http://bioinf.spbau.ru/spades</a>
+</td>
+</tr>
+<td>Trim Galore</td>
+<td align="left"> <a href ="http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/">http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/</a>
+</td>
 </tr>
 
-<tr>
-<td>taxID_tree.nhx</td>
-<td align="center">The final tree generated and rerooted by RAxML</td>
-</tr>
-<tr>
-<td>taxID_clustalo_dist_mat.csv</td>
-<td align="center">The pairwise distance matrix file </td>
-</tr>
-<tr>
-<td>taxID_metadata</td>
-<td align="center">The metadata file for each sequence from taxID_final_set.fa that exists in NCBI </td>
-</tr>
 </tbody>
 </table>
 
