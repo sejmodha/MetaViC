@@ -52,8 +52,7 @@ Soto-Jimenez,L.M. et al. (2014) GARM: genome assembly, reconciliation and mergin
 Tools:
 </h4>
 
-<html>
-<body>
+
 <table>
 <thead>
 <tr>
@@ -108,12 +107,7 @@ Tools:
 <td align="left"> <a href ="http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/">http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/</a>
 </td>
 </tr>
-
 </tbody>
 </table>
 
-
-
-</body>
-</html>
 
