@@ -27,15 +27,25 @@ References:
 </h4>
 
 Bankevich,A. et al. SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing. 
+
 Buchfink,B. et al. (2014) Fast and sensitive protein alignment using DIAMOND. Nat. Methods, 12, 59–60.
+
 Gurevich,A. et al. (2013) QUAST: quality assessment tool for genome assemblies. Bioinformatics, 29, 1072–1075.
+
 Krueger,F. Trim Galore - Babraham Bioinformatics.
+
 Langmead,B. and Salzberg,S.L. (2012) Fast gapped-read alignment with Bowtie 2. Nat. Methods, 9, 357–359.
+
 Nurk,S. et al. (2013) Assembling Genomes and Mini-metagenomes from Highly Chimeric Reads. Springer Berlin Heidelberg, pp. 158–170.
+
 Ondov,B.D. et al. (2011) Interactive metagenomic visualization in a Web browser. BMC Bioinformatics, 12, 385.
+
 Peng,Y. et al. (2012) IDBA-UD: a de novo assembler for single-cell and metagenomic sequencing data with highly uneven depth. Bioinforma. Orig. Pap., 28, 1420–142810.
+
 Schmieder,R. et al. (2012) Identification and removal of ribosomal RNA sequences from metatranscriptomes. Bioinformatics, 28, 433–435.
+
 Schmieder,R. et al. (2011) Quality control and preprocessing of metagenomic datasets. Bioinforma. Appl. NOTE, 27, 863–86410.
+
 Soto-Jimenez,L.M. et al. (2014) GARM: genome assembly, reconciliation and merging pipeline. Curr. Top. Med. Chem., 14, 418–24.
 
 <h4>
