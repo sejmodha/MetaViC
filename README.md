@@ -12,7 +12,7 @@ __1. Cleaning – removing known higher level organism and bacterial reads__
   
 The first step of the cleaning pipeline is to remove the adapters using trim_galore (Krueger). In some cases of metagenomics sample preparation for sequencing ribosomal RNA (rRNA) removal might not be removed before sequencing the sample. In such cases and also in cases it is advisable to remove the rRNAs in silico using RiboPicker (Schmieder *et al.*, 2012). After this, DIAMOND (Buchfink *et al.*, 2014) can be run for each read against the refseq protein database for each file. Krona charts (Ondov *et al.*, 2011) are generated for each DIAMOND output file that describes the read based classification of the sample. The DIAMOND results are then converted to a BLAST tabular output and the Genbank Identifier (GI) column from the output is extracted. GIs are mapped back to NCBI taxonomy databases to extract the corresponding taxonomy and division ID. In our case, we are only interested in the sequences that match viruses, environmental sequences and the sequences that do not match anything in the database. Therefore, any read that is matching protein sequences originating from bacteria, invertebrates, mammals, rodents, phages, plants, vertebrates, primates and synthetic constructs are identified based on the division ID and are filtered from the sample files. Finally, the sample files are properly paired using Prinseq-lite.pl (Schmieder *et al.*, 2011). These reads can then be submitted to the next stage of the pipeline.
 
-__2. Denovo assembly__
+__2. *De novo* assembly__
 
 ![Metagenomics Pipeline step 2](images/Metagenomicspipeline2.png)
   
