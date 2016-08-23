@@ -4,7 +4,7 @@
 # This script takes 3 arguments. 
 # First argument is output_clean_R1.fq Second argument is output_clean_R2.fq and Third argument is output prefix
 # Use following command to run this script
-# For example: bash Assemble.sh output_clean_R1.fq output_clean_R2.fq output_assemble
+# For example: bash Assemble.sh output_clean_R1.fq output_clean_R2.fq output_assemble 4
 
 usage=`echo -e "\n Usage: Assemble.sh  file_clean_R1.fastq file_clean_R2.fastq OutputPrefix NumThreads \n"`;
 
