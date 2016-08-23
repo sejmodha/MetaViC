@@ -7,7 +7,7 @@
 # Third argument is output prefix
 # Forth argument is number of threads
 # Use following command to run this script
-# For example: bash Cleaning.sh R1_combined.fastq R2_combined.fastq output_prefix
+# For example: bash Cleaning.sh R1_combined.fastq R2_combined.fastq output_prefix 4
 
 usage=`echo -e "\n Usage: Cleaning.sh file_R1.fastq file_R2.fastq OutputPrefix NumThreads \n"`;
 
