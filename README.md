@@ -107,6 +107,11 @@ Tools:
 <td align="left"> <a href ="http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/">http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/</a>
 </td>
 </tr>
+</tr>
+<td>weeSAMv1.1</td>
+<td align="left"> <a href ="https://github.com/josephhughes/Sequence-manipulation/blob/master/weeSAMv1.1">https://github.com/josephhughes/Sequence-manipulation/blob/master/weeSAMv1.1</a>
+</td>
+</tr>
 </tbody>
 </table>
 
