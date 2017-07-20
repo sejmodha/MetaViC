@@ -1,6 +1,6 @@
 # MetaViC 
 <h3>
-metaViC : Virus metagenomics pipeline for unknown host or in absence of a host genome
+MetaViC : Virus metagenomics pipeline for unknown host or in absence of a host genome
 </h3>
 We have developed an in-house metagenomics pipeline that we apply to the samples when we have sample from unknown hosts or if the host genome sequence is not sequenced. In the absence of the reference genome it is difficult to determine how to remove the host sequences from the sample. The pipeline described here can be applied directly to any virus metagenomics study. 
 
