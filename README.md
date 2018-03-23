@@ -25,11 +25,11 @@ This pipeline has been applied to field samples of midges from the Scotland, fec
 <h4>
 Papers using MetaViC:
 </h4>
-+Souza, William de, Tristan Dennis, Marcílio Fumagalli, Jansen Araujo, Gilberto Sabino-Santos, Felipe Maia, Gustavo Acrani, et al. 2018. “Novel Parvoviruses from Wild and Domestic Animals in Brazil Provide New Insights into Parvovirus Distribution and Diversity.” Viruses 10 (4). Multidisciplinary Digital Publishing Institute:143. https://doi.org/10.3390/v10040143.
++ Souza, William de, Tristan Dennis, Marcílio Fumagalli, Jansen Araujo, Gilberto Sabino-Santos, Felipe Maia, Gustavo Acrani, et al. 2018. “Novel Parvoviruses from Wild and Domestic Animals in Brazil Provide New Insights into Parvovirus Distribution and Diversity.” Viruses 10 (4). Multidisciplinary Digital Publishing Institute:143. https://doi.org/10.3390/v10040143.
 
-+Marciel de Souza, William, Marcílio Jorge Fumagalli, Jansen de Araujo, Gilberto Sabino-Santos Jr, Felipe Gonçalves Motta Maia, Marilia Farignoli Romeiro, Sejal Modha, et al. 2017. “Discovery of Novel Anelloviruses in Small Mammals Expands the Host Range and Diversity of the Anelloviridae.” https://doi.org/10.1016/j.virol.2017.11.001.
++ Marciel de Souza, William, Marcílio Jorge Fumagalli, Jansen de Araujo, Gilberto Sabino-Santos Jr, Felipe Gonçalves Motta Maia, Marilia Farignoli Romeiro, Sejal Modha, et al. 2017. “Discovery of Novel Anelloviruses in Small Mammals Expands the Host Range and Diversity of the Anelloviridae.” https://doi.org/10.1016/j.virol.2017.11.001.
 
-+Souza, William Marciel de, Marilia Farignoli Romeiro, Marcílio Jorge Fumagalli, Sejal Modha, Jansen de Araujo, Luzia Helena Queiroz, Edison Luiz Durigon, Luiz Tadeu Moraes Figueiredo, Pablo Ramiro Murcia, and Robert James Gifford. 2017. “Chapparvoviruses Occur in at Least Three Vertebrate Classes and Have a Broad Biogeographic Distribution.” Journal of General Virology 98 (2):225–29. https://doi.org/10.1099/jgv.0.000671.
++ Souza, William Marciel de, Marilia Farignoli Romeiro, Marcílio Jorge Fumagalli, Sejal Modha, Jansen de Araujo, Luzia Helena Queiroz, Edison Luiz Durigon, Luiz Tadeu Moraes Figueiredo, Pablo Ramiro Murcia, and Robert James Gifford. 2017. “Chapparvoviruses Occur in at Least Three Vertebrate Classes and Have a Broad Biogeographic Distribution.” Journal of General Virology 98 (2):225–29. https://doi.org/10.1099/jgv.0.000671.
 
 
 
