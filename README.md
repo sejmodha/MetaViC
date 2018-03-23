@@ -22,9 +22,9 @@ The assembled contigs from two assembly tools are then merged using GARM (Soto-J
 
 This pipeline has been applied to field samples of midges from the Scotland, fecal samples of the bats from Brazil, insects from Antarctica.
  
-<h4>
+<h3>
 Papers using MetaViC:
-</h4>
+</h3>
 
 + Souza, William de, Tristan Dennis, Marcílio Fumagalli, Jansen Araujo, Gilberto Sabino-Santos, Felipe Maia, Gustavo Acrani, et al. 2018. “Novel Parvoviruses from Wild and Domestic Animals in Brazil Provide New Insights into Parvovirus Distribution and Diversity.” Viruses 10 (4). Multidisciplinary Digital Publishing Institute:143. https://doi.org/10.3390/v10040143.
 
@@ -34,9 +34,9 @@ Papers using MetaViC:
 
 
 
-<h4>
+<h3>
 References:
-</h4>
+</h3>
 
 Bankevich,A. *et al.* SPAdes: A New Genome Assembly Algorithm and Its Applications to Single-Cell Sequencing. 
 
@@ -60,9 +60,9 @@ Schmieder,R. *et al.* (2011) Quality control and preprocessing of metagenomic da
 
 Soto-Jimenez,L.M. *et al.* (2014) GARM: genome assembly, reconciliation and merging pipeline. Curr. Top. Med. Chem., 14, 418–24.
 
-<h4>
+<h3>
 Tools:
-</h4>
+</h3>
 
 
 <table>
