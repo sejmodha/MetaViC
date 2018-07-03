@@ -25,6 +25,8 @@ This pipeline has been applied to field samples of midges from the Scotland, fec
 <h3>
 Papers using MetaViC:
 </h3>
+
+
 + Dennis, Tristan Philip Wesley, William Marciel de Souza, Marc\’\ilio Jorge Fumagalli, Jansen de Araujo, Felipe Gonçalves Motta Maia, Gustavo Olszanski Acrani, Adriano de Oliveira Torres Carrasco, et al. 2018. “Whole-Genome Sequencing of Parvoviruses from Wild and Domestic Animals in Brazil Provides New Insights into Parvovirus Distribution and Diversity.” Viruses. MDPI.
 
 + Souza, W M, G O Acrani, A Carrasco, M J Fumagalli, M F Romeiro, S Modha, J Hughes, M R T Nunes, P R Murcia, and L T M Figueiredo. 2018. “A58 Identification of Novel Viruses in the Families Flaviviridae (Jigmenvirus), Chuviridae, and Bunyaviridae (Phlebovirus-like) in Ticks from the South of Brazil.” Virus Evolution 4 (suppl_1). Oxford University Press:vey010--057.
