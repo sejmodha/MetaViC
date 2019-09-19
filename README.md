@@ -26,7 +26,7 @@ This pipeline has been applied to field samples of midges from the Scotland, fec
 Citation:
 </h3>
 
-If you use MetaViC in your project please cite: Modha, S.; Hughes, J.; Bianco, G.; Ferguson, H.M.; Helm, B.; Tong, L.; Wilkie, G.S.; Kohl, A.; Schnettler, E. Metaviromics Reveals Unknown Viral Diversity in the Biting Midge Culicoides impunctatus. Viruses 2019, 11, 865. DOI: https://doi.org/10.3390/v11090865
+If you use MetaViC in your project please cite: _Modha, S.; Hughes, J.; Bianco, G.; Ferguson, H.M.; Helm, B.; Tong, L.; Wilkie, G.S.; Kohl, A.; Schnettler, E. Metaviromics Reveals Unknown Viral Diversity in the Biting Midge Culicoides impunctatus. Viruses 2019, 11, 865._ DOI: https://doi.org/10.3390/v11090865
 
 
 <h3>
